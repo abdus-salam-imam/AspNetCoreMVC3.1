@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.logo{
+    height:20px;
+    width:20px;
+}
+
+.jumbotron{
+    background:none;
+}
+.navbar-brand img {
+    width: 100px;
+    height: 100px;
+}
